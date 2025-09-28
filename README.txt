@@ -31,8 +31,8 @@ https://web.facebook.com/slashthegreat
 
 <!-- You can also view my recent project -->
 
-<!-- https://itzme-kurtaxcel.github.io/DCIT-21A---Lab01-Simple-Resume/ -->
-<!-- https://itzme-kurtaxcel.github.io/DCIT-21A---Lab02-Simple-Form/ -->
+<!-- https://kurtaxcel.github.io/DCIT-21A---Lab01-Simple-Resume/ -->
+<!-- https://kurtaxcel.github.io/DCIT-21A---Lab02-Simple-Form/ -->
 
 
 <!-- May the Lord bless us. -->
